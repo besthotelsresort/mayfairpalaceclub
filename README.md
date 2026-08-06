@@ -1,0 +1,2 @@
+# mayfairpalaceclub
+Static site: mayfairpalaceclub
